@@ -52,7 +52,6 @@ To run this project locally:
 |-------------|-----------|-------------|
 |ibmcloud_iaas_classic_username|IBM Cloud Classic Infrastructure username||
 |ibmcloud_iaas_api_key|IBM Cloud Classic Infrastructure API Key||
-|ibmcloud_api_key|IBM Cloud API Key||
 |spectrum_product|IBM Spectrum product that to be installed, either symphony or lsf|symphony|
 |data_center|the data center to create resources in||
 |public_vlan_id|public VLAN id for master node|0|
