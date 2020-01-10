@@ -12,11 +12,6 @@ variable "ibmcloud_iaas_api_key" {
   description = "softlayer api key"
 }
 
-variable "ibmcloud_api_key" {
-  type = "string"
-  description = "ibmcloud api key"
-}
-
 ############################################################
 # for main.tf
 variable "spectrum_product" {

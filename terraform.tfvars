@@ -4,9 +4,6 @@ ibmcloud_iaas_classic_username = ""
 # (required) your IBM IaaS Classic Infrastructure API key
 ibmcloud_iaas_api_key = ""
 
-# (required) Enter your IBM Cloud API Key
-ibmcloud_api_key = ""
-
 # (required) public ssh key for remote console that used to control the master host
 remote_console_public_ssh_key = ""
 
